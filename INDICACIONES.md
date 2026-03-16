@@ -34,3 +34,11 @@ Sugerencia para enfocar la tesis
 
   Podrías delimitar el análisis a municipios de un tamaño concreto (p. ej. >10.000 habitantes) en un país específico, con un horizonte temporal de 2-3 mandatos (2011-2023 en España, por
   ejemplo), y usar el texto de ordenanzas como proxy de orientación ideológica real más allá de la etiqueta de partido.
+
+
+---
+
+construye el proyecto de redes neuronales usando python (pytorch). busca los datasets usando cmux browser. vamos a dejar el scope en spain/region_murcia, vamos a hacer copias en md de las ordenanzas municipales de todos los municipios de la región de murcia que tengan más de 10k habitantes. 
+realiza una primera investigación usando cmux browser para hacer un first assessment. haz una tabla con los municipios que vamos a investigar junto con las poblaciones de cada municipio. la idea sería tener adicionalmente tablas de qué partido gobernaba en 2025, 2022, 2019, 2016, 2013; para tener una visión completa y poder hacer algún tipo de análisis temporal. 
+
+de variables económicas, busca desempleo, pib municipal, renta media. necesitaremos también recaudación fiscal, pero no será resultado, será más input. 
